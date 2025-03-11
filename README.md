@@ -1,4 +1,4 @@
-![logo](https://github.com/ipragati30/ipragati30/blob/main/GitHub%20Banner.mhtml)
+
 <h1 align="center">Hi 👋, I'm Pragati Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
