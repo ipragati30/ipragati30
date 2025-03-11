@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Pragati Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src ="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 - 🔭 I’m currently working on AI & ML project **PromptVision: AI Video Editing with Text Commands**
 
@@ -15,13 +13,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pragati singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragati singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/pragatisingh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pragatisingh30" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lifewithrhythms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifewithrhythms" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pragatisingh3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pragatisingh3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ipragatisingh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ipragatisingh30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pragati_30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pragati_30_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ipragatimat8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ipragatimat8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pragati-singh-6a1723264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pragati-singh-6a1723264/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/pragatisingh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pragatisingh30" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@lifewithrhythms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lifewithrhythms" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/pragatisingh3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pragatisingh3" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ipragatisingh30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ipragatisingh30" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/pragati_30_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pragati_30_/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ipragatimat8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ipragatimat8/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
